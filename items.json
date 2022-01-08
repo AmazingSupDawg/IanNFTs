@@ -2,16 +2,17 @@
   
 "shirts":
 {
-	"link1",
-	"link2",
-	"link3",
-	"etc"
+	0: "link1",
+	1: "link2",
+	2: "link3",
+	3: "etc"
 },
 
 "base":
 {
-  "yeah you get the point",
-  "yeahhh..."
+  0: "yeah you get the point",
+  "this can be whatever you want btw, just keep it numbers cause yeah...": "yeahhh...",
+  2: "btw use this to validate it. https://jsonformatter.curiousconcept.com/"
 }
 
 
