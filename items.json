@@ -9,7 +9,7 @@
       "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348228/Ian_Shirt_Suit_oieisp.png",
       "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348228/Ian_Shirt_Vest_bkqzor.png",
       "8":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348228/Ian_Shirt_Suit_Yellow_tiog45.png",
-      "9":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Shirt_Suit_Blue_zi52bq.png",
+      "9":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Shirt_Suit_Blue_zi52bq.png"
    },
    "base":{
       "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Base_Ian_qgs9kw.png",
@@ -17,47 +17,45 @@
       "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348223/Ian_Base_Alien_xhmvvh.png",
       "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Base_Robot_icyzj4.png",
       "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Base_God_Blue_jfcz0z.png",
-      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Base_God_Red_uwobnn.png",
-      
+      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Base_God_Red_uwobnn.png"
    },
-    "hats":{
-       "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Fedora_ea7d72.png",
-       "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Cowboy_White_zz7hz5.png",
-       "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Cowboy_wouday.png",
-       "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_hat_fedora_Pinstripe_jotryu.png",
-       "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_Irish_oxvk0z.png",
-       "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_froggy_uinahl.png",
-       "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_Pirate_yfehy6.png",
-       "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_Sailor_fezlu8.png",
-       "8":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Hat_Sombrero_v9jtel.png",
-       "9":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348277/Ian_Hat_Irish_Blue_wparmw.png",
-       
+   "hats":{
+      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Fedora_ea7d72.png",
+      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Cowboy_White_zz7hz5.png",
+      "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Cowboy_wouday.png",
+      "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_hat_fedora_Pinstripe_jotryu.png",
+      "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_Irish_oxvk0z.png",
+      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_froggy_uinahl.png",
+      "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_Pirate_yfehy6.png",
+      "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Hat_Sailor_fezlu8.png",
+      "8":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Hat_Sombrero_v9jtel.png",
+      "9":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348277/Ian_Hat_Irish_Blue_wparmw.png"
    },
-    "mouths":{
-       "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_mouth_apx5fl.png",
-       "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Sad_gl2gjx.png",
-       "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Smile_wb09k8.png",
-       "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Cig_jqyeg5.png",
-    },
-     "cigar":{
-        "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_cig_acbhzg.png"
-    },
-     "facial hair":{
-        "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Mustache_wqpt8z.png",
-        "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Mustache_Goatee_qkv9zo.png",
-    },
-     "pins":{
-        "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Pin_Banana_aazi70.png",
-        "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Pin_Rose_plvrss.png",
-    },
-     "Glasses":{
-        "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_uufzeq.png",
-        "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_White_uu7cjl.png",
-        "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_Freedom_ezicvs.png",
-        "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_Sun_ekklw1.png",
-        "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Glasses_Eye_a625us.png",
-        "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Eyepatch_y1ne6r.png",
-        "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Eyepatch_Ian_etwh0g.png",
-        "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Eyepatch_Eye_xju3wu.png",
+   "mouths":{
+      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_mouth_apx5fl.png",
+      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Sad_gl2gjx.png",
+      "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Smile_wb09k8.png",
+      "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Cig_jqyeg5.png"
+   },
+   "cigar":{
+      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_cig_acbhzg.png"
+   },
+   "facial hair":{
+      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Mustache_wqpt8z.png",
+      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Mustache_Goatee_qkv9zo.png"
+   },
+   "pins":{
+      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Pin_Banana_aazi70.png",
+      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Pin_Rose_plvrss.png"
+   },
+   "Glasses":{
+      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_uufzeq.png",
+      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_White_uu7cjl.png",
+      "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_Freedom_ezicvs.png",
+      "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Glasses_Sun_ekklw1.png",
+      "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Glasses_Eye_a625us.png",
+      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Eyepatch_y1ne6r.png",
+      "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Eyepatch_Ian_etwh0g.png",
+      "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348224/Ian_Eyepatch_Eye_xju3wu.png"
    }
 }
