@@ -1,51 +1,3 @@
-{
-   "shirts":{
-      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348452/Ian_Shirt_Sailor_gvfy6s.png",
-      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348375/Ian_Shirt_Yellow_zippqp.png",
-      "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348375/Ian_Shirt_Green_ky7zj8.png",
-      "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348229/Ian_Shirt_Suit_White_g6yqr5.png",
-      "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642349542/Ian_Shirt_Blue_ngs4li.png",
-      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348228/Ian_Shirt_Walt_slz9zw.png",
-      "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348228/Ian_Shirt_Suit_oieisp.png",
-      "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1644278715/Ian_Shirt_Vest_re5cda.png",
-      "8":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348228/Ian_Shirt_Suit_Yellow_tiog45.png",
-      "9":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348227/Ian_Shirt_Suit_Blue_zi52bq.png",
-      "10":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642981669/Ian_shirt_astro_wgajqf.png",
-      "11":"https://res.cloudinary.com/ddhjchnce/image/upload/v1643332826/Ian_shirt_Hawaii_yaesx9.png",
-      "12":"https://res.cloudinary.com/ddhjchnce/image/upload/v1643332826/Ian_shirt_hawaii_yellow_xowfs5.png",
-      "13":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642433536/Ian_Shirt_Flannel_bd0n5q.png",
-      "14":"https://res.cloudinary.com/ddhjchnce/image/upload/v1644201077/Ian_shirt_winter_nlari1.png"
-   },
-   "base":{
-      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642637233/Base_Ian_mcufgd.png",
-      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642637231/Base_Ian_Gold_dfqwvs.png",
-      "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642637234/Ian_Base_Alien_mrczdc.png",
-      "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642637234/Ian_Base_Robot_m7lvhc.png",
-      "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642637234/Ian_Base_God_Red_gy0pzw.png",
-      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642637234/Ian_Base_God_Blue_ugcbeh.png"
-   },
-   "hats":{
-      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Fedora_ea7d72.png",
-      "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Cowboy_White_zz7hz5.png",
-      "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_Hat_Cowboy_wouday.png",
-      "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348225/Ian_hat_fedora_Pinstripe_jotryu.png",
-      "4":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642359789/Ian_Hat_Irish_ij3bxe.png",
-      "5":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642377058/Ian_hat_froggy_beanie_wvv62m.png",
-      "6":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642461140/Ian_Hat_Pirate_nhzzdd.png",
-      "7":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642372862/Ian_Hat_Sailor_iinpod.png",
-      "8":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642431036/Ian_Hat_Sombrero_n4kvci.png",
-      "9":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642359788/Ian_Hat_Irish_Blue_yxtrce.png",
-      "10":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642461467/Ian_hat_pirate_blue_dd6aef.png",
-      "11":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642870800/Ian_hat_beanie_blue_zke0y1.png",
-      "12":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642870800/Ian_hat_beanie_uie39o.png",
-      "13":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642870800/Ian_hat_beanie_red_f5h6ep.png",
-      "14":"https://res.cloudinary.com/ddhjchnce/image/upload/v1644201077/Ian_cap_red_m8lebs.png",
-      "15":"https://res.cloudinary.com/ddhjchnce/image/upload/v1644201077/Ian_cap_blue_wufw3x.png",
-      "16":"https://res.cloudinary.com/ddhjchnce/image/upload/v1644203028/Ian_beanie_hawk_ua389q.png",
-      "17":"https://res.cloudinary.com/ddhjchnce/image/upload/v1644278625/Ian_hat_russian_uk8pwx.png"
-   },
-   "mouths":{
-      "0":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_mouth_apx5fl.png",
       "1":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Sad_gl2gjx.png",
       "2":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Smile_wb09k8.png",
       "3":"https://res.cloudinary.com/ddhjchnce/image/upload/v1642348226/Ian_Mouth_Cig_jqyeg5.png",
@@ -80,6 +32,6 @@
       "0":"https://res.cloudinary.com/decwb4bgi/image/upload/v1644441209/image%20base/Ian%20NFT%20BG%27s/Fluff_v9s9km.png",
       "1":"https://res.cloudinary.com/decwb4bgi/image/upload/v1644441209/image%20base/Ian%20NFT%20BG%27s/Space_oj4pmh.jpg",
       "2":"https://res.cloudinary.com/decwb4bgi/image/upload/v1644441209/image%20base/Ian%20NFT%20BG%27s/Wave_ppnjtx.jpg",
-      "3":"https://res.cloudinary.com/decwb4bgi/image/upload/v1644441208/image%20base/Ian%20NFT%20BG%27s/Geo_p1rpky.jpg",
+      "3":"https://res.cloudinary.com/decwb4bgi/image/upload/v1644441208/image%20base/Ian%20NFT%20BG%27s/Geo_p1rpky.jpg"
    }
 }
